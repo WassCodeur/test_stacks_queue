@@ -1,3 +1,4 @@
+#include <stdio.h>
 #include "monty.h"
 
 int error = 0;
